@@ -1,0 +1,7 @@
+Measurements show an increase in sea level of about 10 cm during the previous century. Coincidentally, measurements of the average global surface temperature show an increase of approximately 1◦C during the same period, which hints at a causal relationship. Possible contributors to the sea level rise are thermal expansion of ocean water, the melting of glaciers and small ice sheets, the melting of the Greenland ice sheet and possibly changes at the Antarctic ice sheet. 
+
+a) What percentage of the Greenland ice sheet has to melt for a global sea level rise of 10 centimetre? Use that the initial volume of the Greenland ice sheet is 2.6·106 km3, the density of ice is 917 kg m−3 (at 0◦C) and 71% of the earth’s surface is covered by oceans. The earth’s radius is 6400 km.
+
+b) What is the increase in temperature necessary to increase the global sea level with 10 cm due to the thermal expansion of ocean water? Use that the total volume of ocean water is 1.4·109 km3, the average density of ocean water is 1027 kg m−3 and that a temperature change of 1K causes a density change of 0.1 kg m−3.
+
+c) Comment on both these numbers. What do you think is the cause of the observed sea level rise? You can compare your answer with the sea level chapter of the IPCC's "Special Report on the Oceans and Cryosphere in a Changing Climate" (https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
