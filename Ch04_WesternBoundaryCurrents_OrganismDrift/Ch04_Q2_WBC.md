@@ -1,4 +1,4 @@
-In the Figure below, the Gulf Stream is shown as a strong current flowing from Florida along the coast of North America, leaving it at around 38◦N and subsequently moving towards the east. The right-hand panel shows a meridional cross-section of the Gulf Stream at around 38<sup>o</sup>N, 68<sup>o</sup>W. 
+In the Figure below, the Gulf Stream is shown as a strong current flowing from Florida along the coast of North America, leaving it at around 38<sup>o</sup>N and subsequently moving towards the east. The right-hand panel shows a meridional cross-section of the Gulf Stream at around 38<sup>o</sup>N, 68<sup>o</sup>W. 
 
 ![WBC plot](wbc_schematic.png)
 
