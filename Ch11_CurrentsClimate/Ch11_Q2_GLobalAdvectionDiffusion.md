@@ -1,4 +1,4 @@
-In this exercise, you will try and give an estimate for the global mean value of the vertical diffusivity coefficient KV and for the energy required to keep the abyssal ocean mixed.
+In this exercise, you will try and give an estimate for the global mean value of the vertical diffusivity coefficient _K<sub>V</sub>_ and for the energy required to keep the abyssal ocean mixed.
 
 a. On average, approximately 40 Sv of Deep Water is formed in the ocean. Calculate, using this 40 Sv of downward transport, what globally averaged vertical upward velocity is needed to return the Deep Water to the surface. Assume that the radius of the earth is 6,400 km and that 70% of the earth surface is covered with water.
 
