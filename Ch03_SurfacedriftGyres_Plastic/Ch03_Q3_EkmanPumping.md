@@ -1,6 +1,6 @@
 The figures below show the mean wind stress over the Pacific Ocean. The left figure shows a top view, and the right figure a side view.
 
-![Ekman plot](ekmanpumping_figure.png)
+![Ekman plot](../Figures/ekmanpumping_figure.png)
 
 a) Mark the Ekman transport with arrows in figure above.  
 
