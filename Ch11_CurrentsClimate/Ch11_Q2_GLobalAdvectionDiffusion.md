@@ -6,7 +6,7 @@ To a first order approximation, the advective-diffusive balance holds in the oce
 
 _w dρ/dz = K<sub>V</sub> d<sup>2</sup>ρ/dz<sup>2</sup>_
 
-![advection_diffusionprofiles](advection_diffusionprofiles.png)
+![advection_diffusionprofiles](../Figures/advection_diffusionprofiles.png)
 
 b. The figure above gives profiles of _ρ_ and _dρ/dz_ (note that the latter one is in 10<sup>-3</sup> kg m<sup>-4</sup>). Using these profiles, get an order of magnitude estimate of _K<sub>V</sub>_ in the ocean between -4,000 m and -1,000 m (hint: use the assumption that the ocean averaged downward velocity equals the ocean averaged upward velocity). 
 
